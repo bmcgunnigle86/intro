@@ -1,0 +1,56 @@
+p {
+  color: Black;
+  font-size: 16px;
+  }
+h1 {
+  color: Blue;
+  font-family: 'impact';
+  font-size: 50px;
+  text-align: center;
+}  
+h2 {
+  color: Blue;
+  font-family: "impact";
+  font-size: 30px;
+  text-align: Center;
+}
+h3 {
+  color: Blue;
+  font-family: "impact";
+  font-size: 25 px;
+  text-align: center;
+}
+header {
+  background-color: darkgray;
+  
+}
+main {
+  background-color:gainsboro;
+  border-style: solid;
+  margin: -23px 0px 20px;
+}
+a:link {
+  color: Blue;
+}
+a:visited {
+  color:purple;
+}
+a:hover {
+  color: cyan;
+}  
+a:active {
+  color: hotpink;
+}
+div {
+  text-align: center;
+}
+.HeaderText {
+  padding-top: 10px;
+}
+.HeaderText2 {
+  padding-bottom:10px
+}
+img {
+  width: 600px;
+  height: 500px;
+}
